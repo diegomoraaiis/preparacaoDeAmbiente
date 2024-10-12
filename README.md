@@ -1,2 +1,2 @@
 # preparacaoDeAmbiente
-Funções contrutoras.
+Funções construtoras.
